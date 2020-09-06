@@ -1,2 +1,8 @@
 # doviz-kuru
-Anlık döviz kurunu gösterir README.md ye göz atın
+Anlık döviz kurunu gösterir.
+
+Yüklü olması gereken kütüphaneler:
+
+BeautifulSoup 
+bs4
+fake_useragent
